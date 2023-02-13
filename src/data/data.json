@@ -1,0 +1,100 @@
+{
+  "boards": [
+    {
+      "id":1,
+      "name": "Exemplo",
+      "columns": [
+        {
+          "id":0,
+          "name": "Pendente",
+          "tasks": [
+            {
+              "id":17,
+              "title": "Lista de compras",
+              "description": "11",
+              "status": "Pendente",
+              "statusId": 0,
+              "subtasks": [
+                {
+                  "title": "Pão",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Café",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Leite",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Bolo",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Maionese",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Alface",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "id":18,
+              "title": "Trabalhos da escola",
+              "description": "",
+              "status": "Pendente",
+              "statusId": 0,
+              "subtasks": [
+                {
+                  "title": "Matemática",
+                  "isCompleted": false
+                },
+                {
+                  "title": "História",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Português",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "id":19,
+              "title": "Tarefas diárias",
+              "description": "",
+              "status": "Pendente",
+              "statusId": 0,
+              "subtasks": [
+                {
+                  "title": "Arrumar a cama",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Treinar",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Ler um livro",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Almoçar",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id":1,
+          "name": "Concluído",
+          "tasks": []
+        }
+      ]
+    }
+  ]
+}
