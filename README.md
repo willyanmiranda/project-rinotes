@@ -1,4 +1,4 @@
-# Projeto Rinocerontes
+# Projeto Rinotes
 
 
 <p align="center">
